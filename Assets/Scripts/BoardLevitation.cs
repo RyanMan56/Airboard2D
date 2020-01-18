@@ -7,6 +7,7 @@ public class BoardLevitation : MonoBehaviour
     private float L0 = 1.0f;
     private Rigidbody2D rb2D;
     private float k = -88.68f;
+    private float zeta = 0.3f;
 
     // Start is called before the first frame update
     void Start()
@@ -37,15 +38,13 @@ public class BoardLevitation : MonoBehaviour
             float L = Mathf.Abs(hit.point.y - adjustedPos.y);
             float x = L0 - L;
 
+            float c = zeta * 2 * Mathf.Sqrt(rb2D.mass * -k);
+            Vector2 force = Vector3.up * (-k * x - c * rb2D.velocity.y);
+
             Debug.DrawRay(adjustedPos, -Vector2.up * L);
+            Debug.Log("F = " + force.y + " L = " + L + " L0 = " + L0 + " x = " + x + " c = " + c);
 
-            Vector2 force = Vector3.up * (-k * x);
-            Debug.Log("F = " + force.y + " L = " + L + " L0 = " + L0 + " x = " + x);
-
-            if (force.y > 0)
-            {
-                rb2D.AddForce(force);
-            }
+            rb2D.AddForce(force);
         }
     }
 }
