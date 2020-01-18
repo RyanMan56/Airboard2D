@@ -10,7 +10,7 @@ public class BoardLevitation : MonoBehaviour
     private float k = -88.68f;
     private float zeta = 0.3f;
     public Rigidbody board;
-    private int springsInParallel = 2;
+    private int springsInParallel = 4;
 
     // Start is called before the first frame update
     void Start()
