@@ -1,0 +1,200 @@
+fileFormatVersion: 2
+guid: 23f0cc7dec8a7484a920c1e33e9c99c9
+ModelImporter:
+  serializedVersion: 26
+  internalIDToNameTable: []
+  externalObjects:
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: __hair_dummy_ignore__Surface_Color
+    second: {fileID: 2800000, guid: 525d5eb9ffd5649428bfd4936852de7f, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: bague1Surface Color
+    second: {fileID: 2800000, guid: 1d4b4bb8696c4864db463f90dd467b3a, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: bagueSurface_Color
+    second: {fileID: 2800000, guid: 0e5a03e7c6667ff418adcc77c5c675d5, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: clip1Surface Color
+    second: {fileID: 2800000, guid: 28e8edd2480c9544482f7ebf18169c6d, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: clipSurface_Color
+    second: {fileID: 2800000, guid: 4a01ce4b12df2ac4bb959c0970b5b0a0, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: clip_avant1Surface Color
+    second: {fileID: 2800000, guid: b147fa606c9ea4a43955f20a62485c1e, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: clip_avantSurface_Color
+    second: {fileID: 2800000, guid: 206247808e00a8040812da7770117809, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: fixation1Surface Color
+    second: {fileID: 2800000, guid: 36ba9bcd72ce36340aba1c06f3fe1d7a, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: fixation2Surface Color
+    second: {fileID: 2800000, guid: 1aca9ab266dd1d748a00c66f88dc0a4d, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: fixationSurface_Color
+    second: {fileID: 2800000, guid: 2e6909c1fd539e74ba69268bec1ff826, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: fixationsSurface_Color
+    second: {fileID: 2800000, guid: 4bda8aa4c49ca944c9f3187ab5b37dae, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: harnaisSurface_Color
+    second: {fileID: 2800000, guid: 15be2e76f0c5cb349918d27233f9d7df, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: languetteSurface_Color
+    second: {fileID: 2800000, guid: a7b7e967aa0d89548a29b2326cd8871a, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: metal1Surface Color
+    second: {fileID: 2800000, guid: 1e9e935490556f548a0299e02eb9a511, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: metalSurface_Color
+    second: {fileID: 2800000, guid: 2a336611f84a8b74ebf08390f3d4efed, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: partie_centraleSurface_Color
+    second: {fileID: 2800000, guid: 6e1f95f2c15d99f4f99ae623aa6965a9, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: plancheSurface_Color
+    second: {fileID: 2800000, guid: 708f458d4d238a942a87573be23e8b0e, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: tigeSurface_Color
+    second: {fileID: 2800000, guid: a07a41e77d6fdf549baf9496f2da9fa3, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: trepiedSurface_Color
+    second: {fileID: 2800000, guid: 1364d241316f4714cb1baa81c9bcc1f4, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: trouSurface_Color
+    second: {fileID: 2800000, guid: 8afb3e54c70f7944fadc6fce8d4fff81, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: trou_plancheSurface_Color
+    second: {fileID: 2800000, guid: 691e0fa4afe561b4ba7e3c3be6985874, type: 3}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 0
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    sortHierarchyByName: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    skinWeightsMode: 0
+    maxBonesPerVertex: 4
+    minBoneWeight: 0.001
+    meshOptimizationFlags: -1
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  referencedClips: []
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 3
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    globalScale: 1
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
